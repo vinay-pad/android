@@ -7,5 +7,6 @@
 /home/vinay/dev/MyFirstApp/bin/classes/com/example/myfirstapp/DisplayMessageActivity.class \
 /home/vinay/dev/MyFirstApp/bin/classes/com/example/myfirstapp/R$attr.class \
 /home/vinay/dev/MyFirstApp/bin/classes/com/example/myfirstapp/R.class \
+/home/vinay/dev/MyFirstApp/bin/classes/com/example/myfirstapp/R$menu.class \
 /home/vinay/dev/MyFirstApp/bin/classes/com/example/myfirstapp/R$string.class \
 /home/vinay/dev/MyFirstApp/bin/classes/R.java.d \

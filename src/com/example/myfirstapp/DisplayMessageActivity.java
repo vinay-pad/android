@@ -32,9 +32,4 @@ public class DisplayMessageActivity extends Activity {
 	// Set the text view as the activity layout
 	setContentView(textView);
     }
-
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        return true;
-    }
 }

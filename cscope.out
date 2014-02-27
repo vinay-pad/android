@@ -1,0 +1,588 @@
+cscope 15 $HOME/dev/MyFirstApp               0000002958
+	@gen/com/example/myfirstapp/BuildConfig.java
+
+2 
+·ckage
+ 
+	gcom
+.
+	gexam¶e
+.
+	gmyfœ¡­p
+;
+
+4 
+public
+ 
+fš®
+ cÏs 
+	cBudCÚfig
+ {
+
+5 
+public
+ 
+fš®
+ 
+boŞ—n
+ 
+	mDEBUG
+ = 
+Œue
+;
+
+	@gen/com/example/myfirstapp/R.java
+
+8 
+·ckage
+ 
+	gcom
+.
+	gexam¶e
+.
+	gmyfœ¡­p
+;
+
+10 
+public
+ 
+fš®
+ cÏs 
+	cR
+ {
+
+11 
+public
+ 
+fš®
+ cÏs 
+	c©Œ
+ {
+
+13 
+public
+ 
+fš®
+ cÏs 
+	cd¿wabË
+ {
+
+14 
+public
+ 
+fš®
+ 
+	gic_Ïunch”
+=0x7f020000;
+
+16 
+public
+ 
+fš®
+ cÏs 
+	cid
+ {
+
+17 
+public
+ 
+fš®
+ 
+	ged™_mes§ge
+=0x7f050000;
+
+19 
+public
+ 
+fš®
+ cÏs 
+	cÏyout
+ {
+
+20 
+public
+ 
+fš®
+ 
+	gmaš
+=0x7f030000;
+
+22 
+public
+ 
+fš®
+ cÏs 
+	c¡ršg
+ {
+
+23 
+public
+ 
+fš®
+ 
+	gaùiÚ_£‰šgs
+=0x7f040003;
+
+24 
+public
+ 
+fš®
+ 
+	g­p_Çme
+=0x7f040000;
+
+25 
+public
+ 
+fš®
+ 
+	gbu‰Ú_£nd
+=0x7f040002;
+
+26 
+public
+ 
+fš®
+ 
+	ged™_mes§ge
+=0x7f040001;
+
+27 
+public
+ 
+fš®
+ 
+	gt™Ë_aùiv™y_di¥Ïy_mes§ge
+=0x7f040005;
+
+28 
+public
+ 
+fš®
+ 
+	gt™Ë_aùiv™y_maš
+=0x7f040004;
+
+	@src/com/example/myfirstapp/DisplayMessageActivity.java
+
+2 
+·ckage
+ 
+	gcom
+.
+	gexam¶e
+.
+	gmyfœ¡­p
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gªnÙ©iÚ
+.
+	gSuµ»ssLšt
+;
+
+5 
+impÜt
+ 
+	gªdroid
+.
+	g­p
+.
+	gAùiv™y
+;
+
+6 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	gIÁ’t
+;
+
+7 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBud
+;
+
+8 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+9 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gM’uI‹m
+;
+
+10 
+impÜt
+ 
+	gªdroid
+.
+	gwidg‘
+.
+	gTextV›w
+;
+
+12 
+public
+ cÏs 
+	cDi¥ÏyMes§geAùiv™y
+ 
+ex‹nds
+ 
+	mAùiv™y
+ {
+
+14 @
+Suµ»ssLšt
+("NewApi")
+
+15 @
+Ov”ride
+
+
+16 
+´Ùeùed
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+) {
+
+17 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+18 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+maš
+);
+
+21 ià(
+Bud
+.
+VERSION
+.
+SDK_INT
+ >ğBud.
+VERSION_CODES
+.
+HONEYCOMB
+) {
+
+23 
+	`g‘AùiÚB¬
+().
+	`£tDi¥ÏyHomeAsUpEÇbËd
+(
+Œue
+);
+
+25 
+IÁ’t
+ 
+š‹Á
+ = 
+	`g‘IÁ’t
+();
+
+26 
+SŒšg
+ 
+mes§ge
+ = 
+š‹Á
+.
+	`g‘SŒšgExŒa
+(
+MašAùiv™y
+.
+EXTRA_MESSAGE
+);
+
+28 
+TextV›w
+ 
+‹xtV›w
+ = 
+Ãw
+ 
+	`TextV›w
+(
+this
+);
+
+29 
+‹xtV›w
+.
+	`£tTextSize
+(40);
+
+30 
+‹xtV›w
+.
+	`£tText
+(
+mes§ge
+);
+
+33 
+	`£tCÚ‹ÁV›w
+(
+‹xtV›w
+);
+
+36 @
+Ov”ride
+
+
+37 
+public
+ 
+boŞ—n
+ 
+	$ÚO±iÚsI‹mS–eùed
+(
+M’uI‹m
+ 
+™em
+) {
+
+38  
+Œue
+;
+
+39 
+	}
+}
+
+	@src/com/example/myfirstapp/MainActivity.java
+
+1 
+·ckage
+ 
+	gcom
+.
+	gexam¶e
+.
+	gmyfœ¡­p
+;
+
+3 
+impÜt
+ 
+	gªdroid
+.
+	g­p
+.
+	gAùiv™y
+;
+
+4 
+impÜt
+ 
+	gªdroid
+.
+	gcÚ‹Á
+.
+	gIÁ’t
+;
+
+5 
+impÜt
+ 
+	gªdroid
+.
+	gos
+.
+	gBundË
+;
+
+6 
+impÜt
+ 
+	gªdroid
+.
+	gv›w
+.
+	gV›w
+;
+
+7 
+impÜt
+ 
+	gªdroid
+.
+	gwidg‘
+.
+	gEd™Text
+;
+
+9 
+public
+ cÏs 
+	cMašAùiv™y
+ 
+ex‹nds
+ 
+	mAùiv™y
+
+
+11 
+public
+ 
+fš®
+ 
+SŒšg
+ 
+	mEXTRA_MESSAGE
+ = "com.example.myfirstapp.MESSAGE";
+
+13 @
+Ov”ride
+
+
+14 
+public
+ 
+	$ÚC»©e
+(
+BundË
+ 
+§vedIn¡ªûS‹
+)
+
+16 
+su³r
+.
+	`ÚC»©e
+(
+§vedIn¡ªûS‹
+);
+
+17 
+	`£tCÚ‹ÁV›w
+(
+R
+.
+Ïyout
+.
+maš
+);
+
+21 
+public
+ 
+	$£ndMes§ge
+(
+V›w
+ 
+v›w
+) {
+
+23 
+IÁ’t
+ 
+š‹Á
+ = 
+Ãw
+ 
+	`IÁ’t
+(
+this
+, 
+Di¥ÏyMes§geAùiv™y
+.
+şass
+);
+
+24 
+Ed™Text
+ 
+ed™Text
+ = (Ed™Textè
+	`fšdV›wById
+(
+R
+.
+id
+.
+ed™_mes§ge
+);
+
+25 
+SŒšg
+ 
+mes§ge
+ = 
+ed™Text
+.
+	`g‘Text
+().
+	`toSŒšg
+();
+
+26 
+š‹Á
+.
+	`putExŒa
+(
+EXTRA_MESSAGE
+, 
+mes§ge
+);
+
+27 
+	`¡¬tAùiv™y
+(
+š‹Á
+);
+
+28 
+	}
+}
+
+	@
+1
+.
+1
+/usr/include
+4
+178
+gen/com/example/myfirstapp/BuildConfig.java
+gen/com/example/myfirstapp/R.java
+src/com/example/myfirstapp/DisplayMessageActivity.java
+src/com/example/myfirstapp/MainActivity.java
